@@ -9,7 +9,7 @@
 
 **A competition-winning machine learning system for predicting student dropout risk**
 
-[Live Demo](#) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Model Performance](#model-performance)
+[Live Demo](#) https://eduguard-ai.streamlit.app/
 
 </div>
 
@@ -18,15 +18,6 @@
 ## 📋 Overview
 
 EduGuard AI is a cutting-edge machine learning system designed to predict student dropout risk in higher education institutions. By analyzing academic performance, financial factors, and demographic data, our system helps educators identify at-risk students early and implement targeted interventions to improve retention rates.
-
-### 🎯 Competition Entry
-
-This project is designed for data science competitions, featuring:
-- Professional UI/UX with stunning dark theme
-- Real-time predictions with risk visualization
-- Interactive analytics dashboard
-- Comprehensive insights and recommendations
-- Production-ready code structure
 
 ---
 
