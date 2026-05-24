@@ -275,30 +275,6 @@ The system automatically selects the best model based on:
 
 ---
 
-## 🏆 Competition Features
-
-### Wow Factors
-- ✅ Live Demo banner
-- ✅ Animated metric cards
-- ✅ Risk gauge visualization
-- ✅ Color-coded risk alerts
-- ✅ Interactive charts
-- ✅ Professional UI/UX
-- ✅ Mobile responsive
-- ✅ Auto-refresh capability
-- ✅ Download reports (PDF)
-- ✅ Competition footer
-
-### Professional Elements
-- Clean code structure
-- Comprehensive documentation
-- Error handling
-- Edge case management
-- Comments for clarity
-- Production-ready
-
----
-
 ## 🤝 Contributing
 
 This is a competition entry project. For suggestions or improvements:
@@ -307,19 +283,6 @@ This is a competition entry project. For suggestions or improvements:
 3. Commit your changes
 4. Push to the branch
 5. Open a pull request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 👥 Team
-
-**EduGuard AI Team**
-- Data Science Competition 2026
 
 ---
 
@@ -332,15 +295,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📞 Contact
-
-For questions or feedback about this project, please contact the team through the competition platform.
-
----
-
-<div align="center">
-
-**Built with ❤️ for Data Science Competition 2026**
 
 [⬆ Back to Top](#-eduguard-ai---student-dropout-prediction-system)
 
